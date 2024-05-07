@@ -474,7 +474,6 @@ background-color: #4d5ae5;
 display: flex;
 justify-content: center;
 align-items: center;
-gap: 16px;
  font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -492,6 +491,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .subscribe-icone{
     fill: #ffffff;
+    margin-left: 16px;
 }
 .backdrop{
     width: 100%;
